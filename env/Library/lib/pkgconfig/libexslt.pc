@@ -1,0 +1,12 @@
+prefix=C:/Users/benfe/OneDrive/Desktop/bulldozer-price-project/env/Library
+exec_prefix=C:/Users/benfe/OneDrive/Desktop/bulldozer-price-project/env/Library
+libdir=C:/Users/benfe/OneDrive/Desktop/bulldozer-price-project/env/Library/lib
+includedir=C:/Users/benfe/OneDrive/Desktop/bulldozer-price-project/env/Library/include
+
+
+Name: libexslt
+Version: 0.8.20
+Description: EXSLT Extension library
+Requires: libxml-2.0, libxslt
+Cflags: -I${includedir}
+Libs: -L${libdir} -lexslt

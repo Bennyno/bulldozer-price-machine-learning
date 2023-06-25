@@ -1,0 +1,7 @@
+
+Name: Qt5WebKit
+Description: Qt WebKit module
+Version: 5.212.0
+Libs: -LC:/Users/benfe/OneDrive/Desktop/bulldozer-price-project/env/Library/lib -lQt5WebKit
+Cflags: -IC:/Users/benfe/OneDrive/Desktop/bulldozer-price-project/env/Library/include/qt/QtWebKit 
+Requires: Qt5Core Qt5Gui Qt5Network

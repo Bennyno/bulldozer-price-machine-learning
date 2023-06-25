@@ -1,0 +1,7 @@
+
+Name: Qt5WebKitWidgets
+Description: Qt WebKitWidgets module
+Version: 5.212.0
+Libs: -LC:/Users/benfe/OneDrive/Desktop/bulldozer-price-project/env/Library/lib -lQt5WebKitWidgets
+Cflags: -IC:/Users/benfe/OneDrive/Desktop/bulldozer-price-project/env/Library/include/qt/QtWebKitWidgets 
+Requires: Qt5Core Qt5Gui Qt5Network Qt5Widgets Qt5WebKit
